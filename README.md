@@ -13,22 +13,15 @@
 > [!IMPORTANT]
 > Follow this format: `[Full Name] - @[GitHubUsername] - [HW Matriculation Number]`
 
-1. Hamza Hassan Mooraj - @hamzamooraj99
-2. Max Ferstenberg - @Max-Ferstenberg
-3. Cameron Cassidy - @CobaltEclipse117
-4. Chi-ioi Chan - @CICiceINA
-5. Ines Piot - @Ines
+1. Hamza Hassan Mooraj - @hamzamooraj99 - H00390746
+2. Max Ferstenberg - @Max-Ferstenberg - H00390365
+3. Cameron Cassidy - @CobaltEclipse117 - H00369879
+4. Chi-ioi Chan - @CICiceINA - H00376665
+5. Ines Piot - @InesPiot - H00480289
 
 ## Initial Project Proposal
 
-
-### [MSc Students Only] Research objectives
-
-> [!CAUTION]
-> Delete this "Research objectives" subsection if you are *not* an MSc student. You don't need it.
-
-> [!IMPORTANT]
-> What are the questions you are trying to answer? What are the goals of your project? What are your hypotheses?
+TODO
 
 -
 
