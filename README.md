@@ -13,11 +13,11 @@
 > [!IMPORTANT]
 > Follow this format: `[Full Name] - @[GitHubUsername] - [HW Matriculation Number]`
 
-1.
-2.
-3.
-4.
-5.
+1. Hamza Hassan Mooraj - @hamzamooraj99
+2. Max Ferstenberg - @Max-Ferstenberg
+3. Cameron Cassidy - @CobaltEclipse117
+4. Chi-ioi Chan - @CICiceINA
+5. Ines Piot - @Ines
 
 ## Initial Project Proposal
 
