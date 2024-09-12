@@ -9,10 +9,6 @@
 
 
 ## Group Members
-
-> [!IMPORTANT]
-> Follow this format: `[Full Name] - @[GitHubUsername] - [HW Matriculation Number]`
-
 1. Hamza Hassan Mooraj - @hamzamooraj99 - H00390746
 2. Max Ferstenberg - @Max-Ferstenberg - H00390365
 3. Cameron Cassidy - @CobaltEclipse117 - H00369879
