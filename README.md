@@ -17,7 +17,8 @@
 
 ## Initial Project Proposal
 
-TODO
+Video Game Genre Predictor
+Extract data from textual descriptors of games in order to determine the Genre and Characteristics of the game.
 
 -
 
