@@ -16,11 +16,9 @@
 5. Ines Piot - @InesPiot - H00480289
 
 ## Initial Project Proposal
--
 Pokemon type predictor
 
 ## Project Objective
--
 Creating a probability-based classifier for Pokemon typings based on textual descriptions and tabular/visual attributes
 
 ### Source of Datasets
