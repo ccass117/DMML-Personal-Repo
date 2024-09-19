@@ -16,24 +16,25 @@
 5. Ines Piot - @InesPiot - H00480289
 
 ## Initial Project Proposal
-
-Video Game Genre Predictor
-Extract data from textual descriptors of games in order to determine the Genre and Characteristics of the game.
-
+Pokemon type predictor
 -
 
+## Project Objective
+Creating a probability-based classifier for Pokemon typings based on textual descriptions and tabular/visual attributes
+-
 ### Source of Datasets
 > [!IMPORTANT]
 > Create a bullet list of the dataset(s) you used, their source with a link, and their licence. Also, include 2 specific examples from your dataset(s); present these nicely.
 
-1.
+1. National pokedex data for every pokemon: https://docs.google.com/spreadsheets/d/19Me94k6YLz1_3EO_PwTPsAI9KmdFTh07/edit?gid=353590428#gid=353590428. No license required; fan made database on a reddit forum.
+2. Textual description database for pokemon: https://huggingface.co/datasets/wanghaofan/pokemon-wiki-captions?row=1. Open source database repository.
 
 ### Milestones
 
 > [!IMPORTANT]
 > Create a bullet list of the key milestones for your project. Discuss these with your group. You may need to update these as the project progresses.
 
-1.
+1. 
 
 
 ## Installing the project
@@ -72,5 +73,14 @@ Extract data from textual descriptors of games in order to determine the Genre a
 
 
 ## Documentation
+
+Initial notes on data usage:
+- Pokemon name, pokedex description, image, each inidivudal stat (HP, ATK, DEF, SATK, SDEF, SPD, Total Stats), All abilities, Height and Weight, Size, MAYBE pokedex colour and MAYBE egg groups.
+- Output will be classifying pokemon typing based on probabilities, to account for dual typing.
+- For clustering, we will be using k-Nearest clustering (for now)
+- For machine learning algorithms, we will use decision trees, k-Nearest neighbours and CatBoost?
+- CNN for image data
+
+- We can take the best performing ML algorithm and CNN, combining them.
 
 Weekly updates are kept in the `documentation/` directory.
