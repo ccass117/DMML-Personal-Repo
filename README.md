@@ -77,7 +77,7 @@ Initial notes on data usage:
 - Pokemon name, pokedex description, image, each inidivudal stat (HP, ATK, DEF, SATK, SDEF, SPD, Total Stats), All abilities, Height and Weight, Size, MAYBE pokedex colour and MAYBE egg groups.
 - Output will be classifying pokemon typing based on probabilities, to account for dual typing.
 - For clustering, we will be using k-Nearest clustering (for now)
-- For machine learning algorithms, we will use decision trees, k-Nearest neighbours and CatBoost?
+- For machine learning algorithms, we will use decision trees, k-Nearest neighbours and Random Forest/CatBoost?
 - CNN for image data
 
 - We can take the best performing ML algorithm and CNN, combining them.
