@@ -94,7 +94,7 @@ SOURCE:
 
 
 4. Deep Learning Models (CNNs)
-	a. Implement and evaluate the following CNN models:
+	a. Implement and evaluate the following CNN models:  
 		i. CNN from Scratch  
 		ii. ResNet-50  
 		iii. VGG-16  
