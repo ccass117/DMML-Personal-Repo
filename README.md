@@ -95,11 +95,11 @@ SOURCE:
 
 4. Deep Learning Models (CNNs)
 	a. Implement and evaluate the following CNN models:
-		i. CNN from Scratch
-		ii. ResNet-50
-		iii. VGG-16
-		iv. DenseNet-121
-		v. XceptionNet
+		i. CNN from Scratch  
+		ii. ResNet-50  
+		iii. VGG-16  
+		iv. DenseNet-121  
+		v. XceptionNet  
 	F. Complete report writing on model evaluation and implementation
 
 
