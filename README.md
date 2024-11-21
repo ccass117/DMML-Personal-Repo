@@ -143,7 +143,9 @@ Required Installs
 
 ### R3. Clustering
 
-  
+  This module applies clustering algorithms such as k-means to group Pokémon based on their attributes. It includes functions for algorithm initialization, parameter tuning, and execution to uncover patterns in the dataset.
+
+  Location: notebooks/Clustering.ipynb
 
 ### R4. Baseline Training and Evaluation Experiments
 
