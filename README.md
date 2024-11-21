@@ -157,15 +157,6 @@ Required Installs
 ### R5. Neural Networks
 Our three models for Deep Learning were DenseNet121, ResNet50 and a model we made from scratch. This includes code for training models and model evaluation.
 
-  DenseNet121 Location: notebooks/Deep Learning/DenseNet121.ipynb
-  ResNet50 Location: notebooks/Deep Learning/ResNet50.ipynb
-  CNN from Scratch: notebooks/Deep Learning/CNN_Scratch.ipynb
-
-
-  
-
-- We can take the best-performing ML algorithm and CNN, and combine them.
-
-  
-
-Weekly updates are kept in the `documentation/` directory.
+  - DenseNet121 Location: notebooks/Deep Learning/DenseNet121.ipynb
+  - ResNet50 Location: notebooks/Deep Learning/ResNet50.ipynb
+  - CNN from Scratch: notebooks/Deep Learning/CNN_Scratch.ipynb
