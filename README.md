@@ -120,11 +120,6 @@ Required Installs
 
 ## Coursework Requirements
 
-  
-
-> [!IMPORTANT]
-
-> Include a short description (100 words max.) of each Coursework Requirement (R2-R5) and their location within your repository.
 
   
 
