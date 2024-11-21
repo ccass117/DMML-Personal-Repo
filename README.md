@@ -155,25 +155,12 @@ Required Installs
   - CatBoost Location: notebooks/Machine Learning/Catboost.ipynb
 
 ### R5. Neural Networks
+Our three models for Deep Learning were DenseNet121, ResNet50 and a model we made from scratch. This includes code for training models and model evaluation.
 
-  
-  
+  DenseNet121 Location: notebooks/Deep Learning/DenseNet121.ipynb
+  ResNet50 Location: notebooks/Deep Learning/ResNet50.ipynb
+  CNN from Scratch: notebooks/Deep Learning/CNN_Scratch.ipynb
 
-## Documentation
-
-  
-
-Initial notes on data usage:
-
-- Pokemon name, pokedex description, image, each inidivudal stat (HP, ATK, DEF, SATK, SDEF, SPD, Total Stats), All abilities, Height and Weight, Size, MAYBE pokedex colour and MAYBE egg groups.
-
-- Output will be classifying pokemon typing based on probabilities, to account for dual typing.
-
-- For clustering, we will be using k-Nearest clustering (for now)
-
-- For machine learning algorithms, we will use decision trees, k-nearest neighbours and Random Forest/CatBoost.
-
-- CNN for image data
 
   
 
