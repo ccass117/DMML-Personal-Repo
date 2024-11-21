@@ -1,20 +1,7 @@
 ﻿[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TnJIQ-Y6)
 
 # Data Mining and Machine Learning Group Coursework
-
-  
-
->  [!TIP]
-
-> You should update and customize this README as the project progresses.
-
-  
-
->  [!IMPORTANT]
-
-> You should complete this README as soon as possible and then delete all messages like this one. This is your first task as a group. Your project should not contain any of these ["alerts"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) by Week 4.
-
-  
+ 
   
 
 ## Group Members
@@ -49,7 +36,6 @@ The complexity comes from ambiguous relationships and complicated associations i
 
 ### Source of Datasets
 
-> Create a bullet list of the dataset(s) you used, their source with a link, and their licence. Also, include 2 specific examples from your dataset(s); present these nicely.
 
 - National Pokedex Data for every Pokemon:
 SOURCE: https://docs.google.com/spreadsheets/d/19Me94k6YLz1_3EO_PwTPsAI9KmdFTh07/edit?gid=353590428#gid=353590428.  
@@ -68,8 +54,6 @@ SOURCE:
 
 ### Milestones
 
-> Create a bullet list of the key milestones for your project. Discuss these with your group. You may need to update these as the project progresses.
-
 1. Data Pre-processing
 	a. Removing redundant data
 	b. Handling Missing Values
@@ -83,13 +67,13 @@ SOURCE:
 	F1. Complete report writing on Clustering analysis and implementation
 	c. Finalise aspects of data to analyse
 	d. Complete analysis descriptions and create graphics
-	F2. Complete report writing on data anlysis and comprehension
+	F2. Complete report writing on data analysis and comprehension
 
 
 3. Machine Learning Models
-	a. Implement and evaluate Decision Trees model
-	b. Implement and evaluate KNN model
-	c. Implement and evaluate CatBoost model
+	a. Implement and evaluate the Decision Trees model
+	b. Implement and evaluate the KNN model
+	c. Implement and evaluate the CatBoost model
 	F. Complete report writing on model evaluation and implementation
 
 
@@ -116,7 +100,7 @@ SOURCE:
 
 ## Installing the project
 
-> Required Installs
+Required Installs
 ```bash
 !pip install catboost
 !pip install iterative-stratification
@@ -124,27 +108,17 @@ SOURCE:
 !pip install torchsummary
 ```
 
-  
-
 ## Data Preparation Pipeline
 
   
 
 > [!IMPORTANT]
-
 > Describe the data preparation pipeline. This should include how you will load the data, clean it, and preprocess it.
 
-  
-
 > [!TIP]
-
 > Try to keep this as simple as possible, ideally with a single magic command that will run the entire pipeline consistently for everyone.
 
-  
-  
-
 > [!WARNING]
-
 > Do not blindly trust that the pipeline works. Verify that each invocation is identical by checking the output. For further checks, you can use methods such as calculating the MD5 checksum for files.
 
   
