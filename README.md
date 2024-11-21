@@ -116,16 +116,12 @@ SOURCE:
 
 ## Installing the project
 
-  
-
-> [!IMPORTANT]
-
-> Provide instructions on how to install the project. This should include any dependencies that need to be installed.
-
-  
-
+> Required Installs
 ```bash
-
+!pip install catboost
+!pip install iterative-stratification
+!pip install pytorch
+!pip install torchsummary
 ```
 
   
