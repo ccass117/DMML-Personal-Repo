@@ -80,20 +80,14 @@ SOURCE:
 4. Deep Learning Models (CNNs)
 	a. Implement and evaluate the following CNN models:  
 		i. CNN from Scratch  
-		ii. ResNet-50  
-		iii. VGG-16  
-		iv. DenseNet-121  
-		v. XceptionNet  
+		ii. ResNet-50   
+		iii. DenseNet-121   
 	F. Complete report writing on model evaluation and implementation
 
 
 5. Testing
 	a. Implement K-Fold Cross Validation on the best ML Model
 	b. Implement K-Fold Cross Validation on the best DL Model
-
-
-6. Hybrid Architecture
-	a. 
 
   
   
