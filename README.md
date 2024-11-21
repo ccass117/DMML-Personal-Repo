@@ -162,7 +162,16 @@ SOURCE:
 
 ### R2. Data Analysis and Exploration
 
+  The tabular dataset was acquired from data from a fanmade database found on Reddit (sourced above). The data was confirmed to be accurate by comparing it with the official Pokémon website.
+  Unnecessary information was removed.
   
+  The image data was found on Kaggle. It consists of 256x256 images of every Pokémon, sorted into their types to be used by the CNNs.
+  
+  Plot.ly was used to graph some initial tables, determining which data fields most greatly affected the type.
+  
+  - Tabular Data Location: Data/Tabular Dataset.csv
+  - Image Data Location: Data/Imgdata  
+  - Data Analysis Location: [INSTERT DIR FOR DATA ANALYSIS]
 
 ### R3. Clustering
 
@@ -189,13 +198,13 @@ Initial notes on data usage:
 
 - For clustering, we will be using k-Nearest clustering (for now)
 
-- For machine learning algorithms, we will use decision trees, k-Nearest neighbours and Random Forest/CatBoost?
+- For machine learning algorithms, we will use decision trees, k-nearest neighbours and Random Forest/CatBoost.
 
 - CNN for image data
 
   
 
-- We can take the best performing ML algorithm and CNN, combining them.
+- We can take the best-performing ML algorithm and CNN, and combine them.
 
   
 
