@@ -105,23 +105,12 @@ Required Installs
 ## Data Preparation Pipeline
 
   
-
-> [!IMPORTANT]
-> Describe the data preparation pipeline. This should include how you will load the data, clean it, and preprocess it.
-
-> [!TIP]
-> Try to keep this as simple as possible, ideally with a single magic command that will run the entire pipeline consistently for everyone.
-
-> [!WARNING]
-> Do not blindly trust that the pipeline works. Verify that each invocation is identical by checking the output. For further checks, you can use methods such as calculating the MD5 checksum for files.
-
+There is not much data preparation required. Both the .csv tabular data, and image data were uploaded directly to the repository and are located and accessed when the programs are run.
   
   
 
 ## Coursework Requirements
 
-
-  
 
 ### R2. Data Analysis and Exploration
 
@@ -134,7 +123,7 @@ Required Installs
   
   - Tabular Data Location: Data/Tabular Dataset.csv
   - Image Data Location: Data/Imgdata  
-  - Data Analysis Location: [INSTERT DIR FOR DATA ANALYSIS]
+  - Data Analysis Location: Notebooks/Data Analysis.ipynb
 
 ### R3. Clustering
 
