@@ -148,8 +148,11 @@ Required Installs
   Location: notebooks/Clustering.ipynb
 
 ### R4. Baseline Training and Evaluation Experiments
-
+  This module focuses on machine learning, including K-Nearest Neighbors (KNN), Decision Trees, and CatBoost, to analyze Pokémon data. It includes code for training models, hyperparameter tuning, and evaluating their performance in predicting Pokémon types.
   
+  K-Nearest Neighbors (KNN) Location: notebooks/Machine Learning/KNN_notebook.ipynb
+  Decision Trees Location: notebooks/Machine Learning/Decision_Tree.ipynb
+  CatBoost Location: notebooks/Machine Learning/Catboost.ipynb
 
 ### R5. Neural Networks
 
